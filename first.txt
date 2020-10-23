@@ -1,2 +1,5 @@
 Gitの練習ファイルを作成します。
 変更を加えました。
+.git add
+.git commit
+
